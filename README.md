@@ -9,5 +9,5 @@ LSTMLM.py：手动实现单层LSTM
 DoubleLSTMLM.py：手动实现双层LSTM
 
 ## 公式原理
-LSTM/公式原理图片.png
+!image[https://github.com/Hygge321/NLP_LSTM_homework/blob/main/LSTM/%E5%85%AC%E5%BC%8F%E5%8E%9F%E7%90%86%E5%9B%BE%E7%89%87.png]
 
