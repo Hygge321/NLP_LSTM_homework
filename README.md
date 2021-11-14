@@ -8,7 +8,6 @@ LSTMLM（源代码）.py：使用Pytorch包装好的LSTM函数
 LSTMLM.py：手动实现单层LSTM
 DoubleLSTMLM.py：手动实现双层LSTM
 
-##公式原理
-
-
+## 公式原理
+LSTM/公式原理图片.png
 
